@@ -7,15 +7,23 @@ deberá conectarse a la DB. Cada dealer deberá tener un usuario y podrá regist
 dentro de su negocio el vehículo que desee con la siguiente información :
 
 ● Fecha de creación
+
 ● Nombre del vehículo
+
 ● Año del vehículo
+
 ● Persona que lo agrego
+
 ● Color del vehículo
 
 De igual manera el usuario también podrá editar y/o mostrar sus datos:
+
 ● Nombre del usuario
+
 ● Correo electrónico (no editable)
+
 ● Edad
+
 ● Dealer en el que labora (no editable)
 
 Un plus de esta prueba es tener un usuario admin que pueda visualizar a los usuarios de
